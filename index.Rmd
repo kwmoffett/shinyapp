@@ -1,0 +1,40 @@
+---
+title: "2016 Election Maps"
+author: "Kenneth W. Moffett"
+date: "June 16, 2017"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+## Basics of the App
+
+- Generates Maps of Varying Trends in the 2016 Election
+- User selects the map that they want to generate
+- Generates map using data gathered from multiple sources
+- Creates map using GoogleVis
+- Users can hover over the staes to get additional data
+
+## Creates a User Interface
+
+- User selects the map that they want to generate from a dropdown menu
+- User clicks on "submit" to generate the map
+- Map is produced to the right on the main screen
+
+## What is in the Data Frame?
+
+ - State, State Code, State Winner (Trump or Clinton), Percentage of the Vote that Trump Received, Percentage of Republican Representatives in Each State's Congressional Delegation.
+ - Here are the first several rows of that data
+ 
+```{r, echo = FALSE, message = FALSE}
+library(googleVis)
+data <- read.csv("Political Data.csv", header = TRUE)
+head(data)
+```
+
+## Conclusion
+
+- App can be used to generate other visualizations
+- These include the percentage of the vote that Trump received in 2016, and the partisan composition of each state's House and Senate delegations to Congress (Percent Republican in Each House of Congress)
+- Data Sources: New York Times, U.S. House of Representatives Clerk's Office, and the U.S. Senate
+- 2016 Election Map (<a href = "https://kwmoffett.shinyapps.io/politicalmap/">Shiny App</a>)
+- ui.R and server.R on <a href = "https://github.com/kwmoffett/shinyapp/">GitHub</a>

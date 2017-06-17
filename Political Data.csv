@@ -1,0 +1,51 @@
+state,code,trumpvote,statewinner,pctrepsenate,pctrephouse
+Alabama,AL,62,Trump,100,85.71428571
+Alaska,AK,51,Trump,100,100
+Arizona,AZ,48,Trump,100,55.55555556
+Arkansas,AR,61,Trump,100,100
+California,CA,32,Clinton,0,26.41509434
+Colorado,CO,43,Clinton,50,57.14285714
+Connecticut,CT,41,Clinton,0,0
+Delaware,DE,42,Clinton,0,0
+Florida,FL,49,Trump,50,59.25925926
+Georgia,GA,50,Trump,100,69.23076923
+Hawaii,HI,30,Clinton,0,0
+Idaho,ID,59,Trump,100,100
+Illinois,IL,38,Clinton,0,38.88888889
+Indiana,IN,57,Trump,50,77.77777778
+Iowa,IA,51,Trump,100,75
+Kansas,KS,56,Trump,100,100
+Kentucky,KY,63,Trump,100,83.33333333
+Louisiana,LA,58,Trump,100,83.33333333
+Maine,ME,45,Clinton,50,50
+Maryland,MD,34,Clinton,0,12.5
+Massachusetts,MA,33,Clinton,0,0
+New Mexico,NM,40,Clinton,0,33.33333333
+Michigan,MI,47.3,Trump,0,64.28571429
+Minnesota,MN,45,Clinton,0,37.5
+Mississippi,MS,58,Trump,100,75
+Missouri,MO,56,Trump,50,75
+Montana,MT,56,Trump,50,100
+Nebraska,NE,59,Trump,100,100
+Nevada,NV,46,Clinton,50,50
+New Hampshire,NH,46.5,Clinton,0,0
+New Jersey,NJ,41,Clinton,0,41.66666667
+New York,NY,37,Clinton,0,33.33333333
+North Carolina,NC,50,Trump,100,76.92307692
+North Dakota,ND,63,Trump,50,100
+Ohio,OH,51,Trump,50,75
+Oklahoma,OK,65,Trump,100,100
+Oregon,OR,39,Clinton,0,20
+Pennsylvania,PA,48.2,Trump,50,72.22222222
+Rhode Island,RI,39,Clinton,0,0
+South Carolina,SC,55,Trump,100,83.33333333
+South Dakota,SD,62,Trump,100,100
+Tennessee,TN,61,Trump,100,77.77777778
+Texas,TX,52,Trump,100,69.44444444
+Utah,UT,45,Trump,100,100
+Vermont,VT,30,Clinton,0,0
+Virginia,VA,50,Clinton,0,63.63636364
+Washington,WA,37,Clinton,0,40
+West Virginia,WV,68,Trump,50,100
+Wisconsin,WI,47.2,Trump,50,62.5
+Wyoming,WY,68,Trump,100,100
